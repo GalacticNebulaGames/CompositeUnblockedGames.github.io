@@ -5,8 +5,8 @@
 
 </p>
 
-<h1 align="center">Sz Games</h1>
-<p align="center">The Best Way To Play Game's In School</p>
+<h1 align="center">Composite Gmaes</h1>
+<p align="center">The Succesor to the previous Composite drive.</p>
 <p align="Center">Site Created and owned by WyattDaMemer(GalacticNebulaGames) and co ran by NitroGames101)</p>
 <a href="hhttps://discord.gg/y3RaAxhaBt"><img height="30px"  src="https://img.shields.io/badge/Join%20The%20Discord!-brightgreen?style=for-the-badge&logo=discord&logoColor=white&labelColor=%233f4bd1&color=%235865F2"></a>
 
