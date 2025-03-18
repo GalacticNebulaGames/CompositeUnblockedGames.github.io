@@ -1,6 +1,7 @@
 <p align="center">
- 
-  <img src="https://lh6.googleusercontent.com/i4tDmCdaknF3oK5WRb9QTLan5XeF7dYX-NoggaeaSdb1BfsbBxBzi9OkSTzexzTugsQHir99Ar4PBQAFp0pJlT-uJvSk9IRt2DHZP6Sr4ftn0X0xETT2KF8rplTwbqjfjg=w1280" width="150px" height="150px">
+
+  <img src="![Compositegames](https://github.com/user-attachments/assets/4aa5a711-7921-42bc-bfff-8b197cbc1ba3)
+" width="150px" height="150px">
 
 </p>
 
