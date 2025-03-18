@@ -1,8 +1,5 @@
 <p align="center">
 
-  <img src="![Compositegames](https://github.com/user-attachments/assets/4aa5a711-7921-42bc-bfff-8b197cbc1ba3)
-" width="150px" height="150px">
-
 </p>
 
 <h1 align="center">Composite Games</h1>
